@@ -1,0 +1,10 @@
+.header{
+    width: 100vw;
+    height: 10vh;
+    background-color: #a5ec0d;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+.h1{
+    position: absolute;
+}
