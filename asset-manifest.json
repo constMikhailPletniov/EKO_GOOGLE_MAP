@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/constMikhailPletniov/EKO_GOOGLE_MAP/static/css/main.e9196461.chunk.css",
-    "main.js": "/constMikhailPletniov/EKO_GOOGLE_MAP/static/js/main.53bb3111.chunk.js",
-    "main.js.map": "/constMikhailPletniov/EKO_GOOGLE_MAP/static/js/main.53bb3111.chunk.js.map",
-    "runtime-main.js": "/constMikhailPletniov/EKO_GOOGLE_MAP/static/js/runtime-main.9aa2f294.js",
-    "runtime-main.js.map": "/constMikhailPletniov/EKO_GOOGLE_MAP/static/js/runtime-main.9aa2f294.js.map",
-    "static/js/2.7298141e.chunk.js": "/constMikhailPletniov/EKO_GOOGLE_MAP/static/js/2.7298141e.chunk.js",
-    "static/js/2.7298141e.chunk.js.map": "/constMikhailPletniov/EKO_GOOGLE_MAP/static/js/2.7298141e.chunk.js.map",
-    "static/js/3.1811221c.chunk.js": "/constMikhailPletniov/EKO_GOOGLE_MAP/static/js/3.1811221c.chunk.js",
-    "static/js/3.1811221c.chunk.js.map": "/constMikhailPletniov/EKO_GOOGLE_MAP/static/js/3.1811221c.chunk.js.map",
-    "index.html": "/constMikhailPletniov/EKO_GOOGLE_MAP/index.html",
-    "static/css/main.e9196461.chunk.css.map": "/constMikhailPletniov/EKO_GOOGLE_MAP/static/css/main.e9196461.chunk.css.map",
-    "static/js/2.7298141e.chunk.js.LICENSE.txt": "/constMikhailPletniov/EKO_GOOGLE_MAP/static/js/2.7298141e.chunk.js.LICENSE.txt"
+    "main.css": "/EKO_GOOGLE_MAP/static/css/main.e9196461.chunk.css",
+    "main.js": "/EKO_GOOGLE_MAP/static/js/main.53bb3111.chunk.js",
+    "main.js.map": "/EKO_GOOGLE_MAP/static/js/main.53bb3111.chunk.js.map",
+    "runtime-main.js": "/EKO_GOOGLE_MAP/static/js/runtime-main.efa75604.js",
+    "runtime-main.js.map": "/EKO_GOOGLE_MAP/static/js/runtime-main.efa75604.js.map",
+    "static/js/2.7298141e.chunk.js": "/EKO_GOOGLE_MAP/static/js/2.7298141e.chunk.js",
+    "static/js/2.7298141e.chunk.js.map": "/EKO_GOOGLE_MAP/static/js/2.7298141e.chunk.js.map",
+    "static/js/3.1811221c.chunk.js": "/EKO_GOOGLE_MAP/static/js/3.1811221c.chunk.js",
+    "static/js/3.1811221c.chunk.js.map": "/EKO_GOOGLE_MAP/static/js/3.1811221c.chunk.js.map",
+    "index.html": "/EKO_GOOGLE_MAP/index.html",
+    "static/css/main.e9196461.chunk.css.map": "/EKO_GOOGLE_MAP/static/css/main.e9196461.chunk.css.map",
+    "static/js/2.7298141e.chunk.js.LICENSE.txt": "/EKO_GOOGLE_MAP/static/js/2.7298141e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9aa2f294.js",
+    "static/js/runtime-main.efa75604.js",
     "static/js/2.7298141e.chunk.js",
     "static/css/main.e9196461.chunk.css",
     "static/js/main.53bb3111.chunk.js"
