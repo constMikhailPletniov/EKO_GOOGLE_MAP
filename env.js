@@ -16,7 +16,6 @@ window.env = {
   "FPS_BROWSER_APP_PROFILE_STRING": "Internet Explorer",
   "FPS_BROWSER_USER_PROFILE_STRING": "Default",
   "GIT_ASKPASS": "c:\\Users\\Mikhail\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\extensions\\git\\dist\\askpass.sh",
-  "GOOGLE_API_KEY": "AIzaSyDKQKeCVLB5j1ZAow4QN4r26LhyUZOgKK8",
   "HOME": "C:\\Users\\Mikhail",
   "HOMEDRIVE": "C:",
   "HOMEPATH": "\\Users\\Mikhail",
